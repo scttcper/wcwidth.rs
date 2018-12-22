@@ -1,0 +1,9 @@
+[package]
+name = "wcwidth"
+version = "0.1.0"
+authors = ["Scott Cooper <scttcper@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+unicode-segmentation = "1.2.1"
